@@ -17,7 +17,9 @@
 | Police Truck | Dead Kennedys | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Long Train Runnin' | Doobie Brothers | G: E Standard<br>B: E Standard | same as in-game |
+| Enough Space | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | This Is a Call | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
+| Our Lips Are Sealed | Go-Go's | G: E Standard<br>B: E Standard | same as in-game |
 | Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
 | 21 Guns | Green Day | G: E Standard<br>B: E Standard | same as in-game |
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
@@ -31,11 +33,13 @@
 | Hysteria | Muse | G: E Standard<br>B: E Standard | same as in-game |
 | Use It | The New Pornographers | G: E Standard<br>B: E Standard | same as in-game |
 | Last | Nine Inch Nails | G: Drop D<br>B: Drop D | same as in-game |
-| Blew | Nirvana | G: DADGBF<br>B: E Standard | G: CGCFAD#<br>B: C Standard
+| Blew | Nirvana | G: D A D G B F<br>B: E Standard | G: C G C F A D#<br>B: C Standard
 | School | Nirvana | G: E Standard<br>B: E Standard | same as in-game |
+| Don't Speak | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Tragic Kingdom | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Wonderwall | Oasis | G: E Standard<br>B: E Standard | G: F# Standard (E Standard, capo on 2nd fret)<br>B: same as in-game |
+| (Reprise) Sandblasted Skin | Pantera | G: A A D G B E<br>B: A A D G | G: G G C F A D<br>B: G G C F |
 | Heartbreaker | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Hit Me With Your Best Shot | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Here Comes Your Man | Pixies | G: E Standard<br>B: E Standard | same as in-game |
@@ -61,11 +65,11 @@
 | They're Red Hot | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Dragula | Rob Zombie | G: Drop D<br>B: E Standard | G: D Drop C<br>B: C Standard |
 | Living Dead Girl | Rob Zombie | G: Drop D<br>B: Drop D |  same as in-game |
-| Caravan | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | Tom Sawyer (Original Version) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
 | All of This | Shaimus | G: E Standard<br>B: E Standard | same as in-game |
+| Song with a Mission | as made famous by The Sounds | G: E Standard<br>B: E Standard | same as in-game |
 | A Day Like This | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
 | The Best Day Ever | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
 | B.Y.O.B. | System of a Down | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
